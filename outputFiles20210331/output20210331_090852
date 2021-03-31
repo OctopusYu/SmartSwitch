@@ -1,0 +1,31 @@
+21845814us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22037902us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22255406us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22258018us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 DA:01:80:c2:00:00:00 BSSID:c0:f4:e6:64:c7:0c SA:c0:f4:e6:64:c7:0c Data IV:2bf1 Pad 20 KeyID 1
+22338614us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22346686us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22359537us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22447425us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22562614us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22646122us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22665013us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22756892us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22850646us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22857023us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22874579us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+22953034us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23055427us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23063496us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23231048us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:ff:ff:ff:ff:ff:ff DA:ff:ff:ff:ff:ff:ff SA:48:a3:80:4e:e8:8b Probe Request () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit]
+23266630us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23279419us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23348614us tsft 1.0 Mb/s 2412 MHz 11b -56dBm signal antenna 0 BSSID:ff:ff:ff:ff:ff:ff DA:ff:ff:ff:ff:ff:ff SA:20:31:1c:10:f0:c3 Probe Request (IMUNET) [1.0 2.0 5.5 11.0 Mbit]
+23369027us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23383790us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23465040us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23573835us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23680068us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23772243us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:11 DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:11 Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23781505us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0d DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0d Beacon () [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+23794076us tsft 1.0 Mb/s 2412 MHz 11b -64dBm signal antenna 0 BSSID:c0:f4:e6:64:c7:0c DA:ff:ff:ff:ff:ff:ff SA:c0:f4:e6:64:c7:0c Beacon (HUAWEI-97LJAP) [1.0* 2.0* 5.5* 6.0 9.0 11.0* 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+

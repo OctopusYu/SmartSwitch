@@ -1,0 +1,205 @@
+1541433886us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:c03737 Pad 20 KeyID 1
+1541462848us tsft 6.0 Mb/s 2412 MHz 11g -57dBm signal antenna 0 BSSID:8e:c6:81:15:4b:ef DA:ff:ff:ff:ff:ff:ff SA:8e:c6:81:15:4b:ef Beacon (DIRECT-YRLAPTOP-9HTGDRPBTCIJ) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541464371us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541495174us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541498150us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541503162us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541526252us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:b0:c5:54:ad:b9:62 DA:ff:ff:ff:ff:ff:ff SA:b0:c5:54:ad:b9:62 Beacon (D-Link_DIR-612) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541528892us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1541531722us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:c23737 Pad 20 KeyID 1
+1541532723us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:c33737 Pad 20 KeyID 1
+1541536151us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:c43737 Pad 20 KeyID 1
+1541546897us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:9c:9d:7e:fa:09:ea DA:ff:ff:ff:ff:ff:ff SA:9c:9d:7e:fa:09:ea Beacon (Xiaomi_09E9) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1541565249us tsft 6.0 Mb/s 2412 MHz 11g -57dBm signal antenna 0 BSSID:8e:c6:81:15:4b:ef DA:ff:ff:ff:ff:ff:ff SA:8e:c6:81:15:4b:ef Beacon (DIRECT-YRLAPTOP-9HTGDRPBTCIJ) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541566771us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541593742us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541635129us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:c83737 Pad 20 KeyID 1
+1541636031us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:c93737 Pad 20 KeyID 1
+1541638278us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ca3737 Pad 20 KeyID 1
+1541639799us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:cb3737 Pad 20 KeyID 1
+1541657102us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1541669170us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541689050us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:c0:61:18:f4:26:7c DA:ff:ff:ff:ff:ff:ff SA:c0:61:18:f4:26:7c Beacon (TP-LINK_267C) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541693553us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541699447us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541707921us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541733297us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1541736837us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:cc3737 Pad 20 KeyID 1
+1541737784us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:cd3737 Pad 20 KeyID 1
+1541740828us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:cf3737 Pad 20 KeyID 1
+1541741819us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d03737 Pad 20 KeyID 1
+1541794672us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541805349us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541812840us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(5004) SEQ(12576) BAR
+1541835553us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1541838464us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d13737 Pad 20 KeyID 1
+1541839438us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d23737 Pad 20 KeyID 1
+1541840465us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d33737 Pad 20 KeyID 1
+1541841682us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d43737 Pad 20 KeyID 1
+1541873970us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541893850us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:c0:61:18:f4:26:7c DA:ff:ff:ff:ff:ff:ff SA:c0:61:18:f4:26:7c Beacon (TP-LINK_267C) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541896995us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541907749us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541913580us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1541916333us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(4) SEQ(61680) BAR
+1541918125us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(3004) SEQ(416) BAR
+1541919017us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(5004) SEQ(12576) BAR
+1541931590us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:ff:ff:ff:ff:ff:ff SA:a8:41:22:e7:91:98 Beacon (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1541965672us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1541994930us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:5c:09:79:1d:2c:68 DA:2c:37:c5:41:4f:4d SA:5c:09:79:1d:2c:68 Probe Response (ChinaNet-qWr3) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 2, PRIVACY
+1542003673us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:5c:09:79:1d:2c:68 DA:ff:ff:ff:ff:ff:ff SA:5c:09:79:1d:2c:68 Beacon (ChinaNet-qWr3) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542006646us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542010148us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542013067us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1542015140us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542017909us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(6004) SEQ(2128) BAR
+1542040926us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542058859us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1542066700us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1542102518us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542112548us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542136494us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:ff:ff:ff:ff:ff:ff SA:a8:41:22:e7:91:98 Beacon (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542161277us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:9c:9d:7e:fa:09:ea DA:ff:ff:ff:ff:ff:ff SA:9c:9d:7e:fa:09:ea Beacon (Xiaomi_09E9) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542169121us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1542181170us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542183478us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 DA:01:00:5e:7f:ff:7b BSSID:28:2c:b2:46:9b:d4 SA:ec:fa:5c:0b:a0:ce Data IV:25b8 Pad 20 KeyID 1
+1542206388us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:5c:09:79:1d:2c:68 DA:ff:ff:ff:ff:ff:ff SA:5c:09:79:1d:2c:68 Beacon (ChinaNet-qWr3) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542212374us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542220166us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542223848us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:ec:fa:5c:0b:a0:ce Clear-To-Send
+1542259493us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:6c:d9:4c:8c:6f:8d Acknowledgment
+1542271519us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1542282046us tsft 6.0 Mb/s 2412 MHz 11g -57dBm signal antenna 0 BSSID:8e:c6:81:15:4b:ef DA:ff:ff:ff:ff:ff:ff SA:8e:c6:81:15:4b:ef Beacon (DIRECT-YRLAPTOP-9HTGDRPBTCIJ) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542283568us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542285877us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 DA:01:00:5e:7f:ff:7b BSSID:28:2c:b2:46:9b:d4 SA:ec:fa:5c:0b:a0:ce Data IV:25b9 Pad 20 KeyID 1
+1542306709us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542314594us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542317347us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542322545us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542325169us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:a4:56:02:3f:f8:15 SA:a4:56:02:3f:f8:15 Data IV:98d9 Pad 20 KeyID 1
+1542328408us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(4) SEQ(60928) BAR
+1542329290us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(1004) SEQ(4064) BAR
+1542331974us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(5004) SEQ(592) BAR
+1542332866us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(6004) SEQ(3792) BAR
+1542342079us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:ff:ff:ff:ff:ff:ff SA:a8:41:22:e7:91:98 Beacon (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542345466us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:b0:c5:54:ad:b9:62 DA:ff:ff:ff:ff:ff:ff SA:b0:c5:54:ad:b9:62 Beacon (D-Link_DIR-612) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542348187us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542351090us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d63737 Pad 20 KeyID 1
+1542352252us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d73737 Pad 20 KeyID 1
+1542353226us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d83737 Pad 20 KeyID 1
+1542384445us tsft 6.0 Mb/s 2412 MHz 11g -57dBm signal antenna 0 BSSID:8e:c6:81:15:4b:ef DA:ff:ff:ff:ff:ff:ff SA:8e:c6:81:15:4b:ef Beacon (DIRECT-YRLAPTOP-9HTGDRPBTCIJ) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542392346us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542405850us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 BSSID:c0:61:18:f4:26:7c DA:ff:ff:ff:ff:ff:ff SA:c0:61:18:f4:26:7c Beacon (TP-LINK_267C) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542409297us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542415822us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542419747us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542424726us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542428008us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(2004) SEQ(800) BAR
+1542429881us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(5004) SEQ(592) BAR
+1542450828us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542453667us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:d93737 Pad 20 KeyID 1
+1542458743us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:dd3737 Pad 20 KeyID 1
+1542476306us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1542488368us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542511579us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542522147us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542546291us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:ff:ff:ff:ff:ff:ff SA:a8:41:22:e7:91:98 Beacon (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542552341us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542555261us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:de3737 Pad 20 KeyID 1
+1542556289us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:df3737 Pad 20 KeyID 1
+1542557289us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e03737 Pad 20 KeyID 1
+1542558263us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e13737 Pad 20 KeyID 1
+1542559542us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e23737 Pad 20 KeyID 1
+1542572878us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 RA:c4:fe:5b:37:40:9f Acknowledgment
+1542576014us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0  RA:c4:fe:5b:37:40:9f TA:8c:53:c3:95:60:cc CTL(4004) SEQ(256) BAR
+1542578983us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0  RA:c4:fe:5b:37:40:9f TA:8c:53:c3:95:60:cc CTL(7004) SEQ(9600) BAR
+1542586225us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:6c:ef:c6:6e:04:ed SA:a8:41:22:e7:91:98 Probe Response (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] CH: 1, PRIVACY
+1542590768us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542610651us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:c0:61:18:f4:26:7c DA:ff:ff:ff:ff:ff:ff SA:c0:61:18:f4:26:7c Beacon (TP-LINK_267C) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542613709us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542624255us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:6c:d9:4c:8c:6f:8d Acknowledgment
+1542632213us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(3004) SEQ(34496) BAR
+1542632570us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 RA:ec:fa:5c:0b:a0:ce Clear-To-Send
+1542633574us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:ec:fa:5c:0b:a0:ce Clear-To-Send
+1542634077us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:6c:d9:4c:8c:6f:8d TA:00:cf:c0:a9:c2:f8 CTL(6004) SEQ(3792) BAR
+1542659929us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e53737 Pad 20 KeyID 1
+1542662593us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e73737 Pad 20 KeyID 1
+1542668985us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:6c:d9:4c:8c:6f:8d Acknowledgment
+1542716832us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542731800us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542752717us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 BSSID:bc:54:fc:89:95:aa DA:ff:ff:ff:ff:ff:ff SA:bc:54:fc:89:95:aa Beacon (MERCURY_601) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542757861us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542760808us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e83737 Pad 20 KeyID 1
+1542761710us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:e93737 Pad 20 KeyID 1
+1542764918us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ea3737 Pad 20 KeyID 1
+1542765891us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:eb3737 Pad 20 KeyID 1
+1542766802us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ec3737 Pad 20 KeyID 1
+1542773342us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0 RA:c4:fe:5b:37:40:9f Acknowledgment
+1542795568us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542815451us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:c0:61:18:f4:26:7c DA:ff:ff:ff:ff:ff:ff SA:c0:61:18:f4:26:7c Beacon (TP-LINK_267C) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542828521us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1542834283us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542857447us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:b0:c5:54:ad:b9:62 DA:ff:ff:ff:ff:ff:ff SA:b0:c5:54:ad:b9:62 Beacon (D-Link_DIR-612) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542860239us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542863196us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ed3737 Pad 20 KeyID 1
+1542864240us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ee3737 Pad 20 KeyID 1
+1542865636us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ef3737 Pad 20 KeyID 1
+1542866700us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f03737 Pad 20 KeyID 1
+1542867744us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f13737 Pad 20 KeyID 1
+1542897967us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542934399us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(4) SEQ(61680) BAR
+1542959795us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:b0:c5:54:ad:b9:62 DA:ff:ff:ff:ff:ff:ff SA:b0:c5:54:ad:b9:62 Beacon (D-Link_DIR-612) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1542962434us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1542965399us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f23737 Pad 20 KeyID 1
+1542966373us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f33737 Pad 20 KeyID 1
+1542968058us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f43737 Pad 20 KeyID 1
+1542970571us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f63737 Pad 20 KeyID 1
+1542980456us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0  RA:c4:fe:5b:37:40:9f TA:8c:53:c3:95:60:cc CTL(1004) SEQ(38400) BAR
+1542984243us tsft 1.0 Mb/s 2412 MHz 11b -66dBm signal antenna 0  RA:c4:fe:5b:37:40:9f TA:8c:53:c3:95:60:cc CTL(5004) SEQ(48688) BAR
+1542985443us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0  RA:c4:fe:5b:37:40:9f TA:8c:53:c3:95:60:cc CTL(6004) SEQ(15936) BAR
+1542988324us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1543023384us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543033688us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1543034145us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543039319us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543041935us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(3004) SEQ(416) BAR
+1543043871us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(6004) SEQ(2128) BAR
+1543057998us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:ff:ff:ff:ff:ff:ff SA:a8:41:22:e7:91:98 Beacon (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543068978us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f83737 Pad 20 KeyID 1
+1543070518us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:f93737 Pad 20 KeyID 1
+1543091062us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1543102267us tsft 6.0 Mb/s 2412 MHz 11g -57dBm signal antenna 0 BSSID:8e:c6:81:15:4b:ef DA:ff:ff:ff:ff:ff:ff SA:8e:c6:81:15:4b:ef Beacon (DIRECT-YRLAPTOP-9HTGDRPBTCIJ) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543122881us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:c0:61:18:f4:26:7c DA:ff:ff:ff:ff:ff:ff SA:c0:61:18:f4:26:7c Beacon (TP-LINK_267C) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543149665us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(4) SEQ(61696) BAR
+1543151439us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0  RA:3c:86:d1:5b:1a:35 TA:00:cf:c0:a9:c2:f8 CTL(3004) SEQ(416) BAR
+1543172155us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:fd3737 Pad 20 KeyID 1
+1543175375us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:ff3737 Pad 20 KeyID 1
+1543176340us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:3838 Pad 20 KeyID 1
+1543184050us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1543203642us tsft 6.0 Mb/s 2412 MHz 11g -57dBm signal antenna 0 BSSID:8e:c6:81:15:4b:ef DA:ff:ff:ff:ff:ff:ff SA:8e:c6:81:15:4b:ef Beacon (DIRECT-YRLAPTOP-9HTGDRPBTCIJ) [6.0* 9.0 12.0* 18.0 24.0* 36.0 48.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543205167us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543228362us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543235809us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543243960us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:a4:56:02:3f:f8:15 DA:ff:ff:ff:ff:ff:ff SA:a4:56:02:3f:f8:15 Beacon (360WiFi-3FF815) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543271982us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:13838 Pad 20 KeyID 1
+1543272929us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:23838 Pad 20 KeyID 1
+1543273947us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:33838 Pad 20 KeyID 1
+1543277001us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:53838 Pad 20 KeyID 1
+1543281001us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 RA:ec:fa:5c:0b:a0:ce Clear-To-Send
+1543286930us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1543295518us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:80:b0:7b:52:b3:bc DA:ff:ff:ff:ff:ff:ff SA:80:b0:7b:52:b3:bc Beacon (CMCC-c63c) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 3, PRIVACY
+1543342359us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1543369390us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:b0:c5:54:ad:b9:62 DA:ff:ff:ff:ff:ff:ff SA:b0:c5:54:ad:b9:62 Beacon (D-Link_DIR-612) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543372120us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1543377066us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 DA:ff:ff:ff:ff:ff:ff BSSID:8c:53:c3:95:60:cc SA:8c:53:c3:95:60:cb Data IV:73838 Pad 20 KeyID 1
+1543385695us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 RA:3c:86:d1:5b:1a:35 Acknowledgment
+1543390072us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:9c:9d:7e:fa:09:ea DA:ff:ff:ff:ff:ff:ff SA:9c:9d:7e:fa:09:ea Beacon (Xiaomi_09E9) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+1543393608us tsft 1.0 Mb/s 2412 MHz 11b -78dBm signal antenna 0 BSSID:9c:d6:43:68:21:23 DA:ff:ff:ff:ff:ff:ff SA:9c:d6:43:68:21:23 Beacon () [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1
+1543409966us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:28:2c:b2:46:9b:d4 DA:ff:ff:ff:ff:ff:ff SA:28:2c:b2:46:9b:d4 Beacon (Nicole) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543432912us tsft 1.0 Mb/s 2412 MHz 11b -70dBm signal antenna 0 BSSID:dc:fe:18:49:de:68 DA:ff:ff:ff:ff:ff:ff SA:dc:fe:18:49:de:68 Beacon (TP-LINK_DE68) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543439843us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:00:cf:c0:a9:c2:f8 DA:ff:ff:ff:ff:ff:ff SA:00:cf:c0:a9:c2:f8 Beacon (CMCC-401) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543443744us tsft 1.0 Mb/s 2412 MHz 11b -74dBm signal antenna 0 BSSID:2c:63:73:8c:79:11 DA:ff:ff:ff:ff:ff:ff SA:2c:63:73:8c:79:11 Beacon (ChinaNet-32WY) [1.0* 2.0* 5.5* 11.0* 18.0 24.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543467513us tsft 1.0 Mb/s 2412 MHz 11b -72dBm signal antenna 0 BSSID:a8:41:22:e7:91:98 DA:ff:ff:ff:ff:ff:ff SA:a8:41:22:e7:91:98 Beacon (CMCC-TVgq) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 1, PRIVACY
+1543471789us tsft 1.0 Mb/s 2412 MHz 11b -76dBm signal antenna 0 BSSID:b0:c5:54:ad:b9:62 DA:ff:ff:ff:ff:ff:ff SA:b0:c5:54:ad:b9:62 Beacon (D-Link_DIR-612) [1.0* 2.0* 5.5* 11.0* 6.0 9.0 12.0 18.0 Mbit] ESS CH: 1, PRIVACY
+1543474429us tsft 1.0 Mb/s 2412 MHz 11b -68dBm signal antenna 0 BSSID:8c:53:c3:95:60:cc DA:ff:ff:ff:ff:ff:ff SA:8c:53:c3:95:60:cc Beacon (301) [1.0* 2.0* 5.5* 11.0* 9.0 18.0 36.0 54.0 Mbit] ESS CH: 2, PRIVACY
+
